@@ -1,14 +1,14 @@
-# 🏍️ Motorbike Buyer Prediction
+#  Motorbike Buyer Prediction
 
 Machine Learning project for predicting whether a customer is likely to purchase a motorcycle based on customer characteristics.
 
-## 📌 Project Overview
+##  Project Overview
 
 This project applies Machine Learning techniques to analyze customer data and predict motorcycle purchasing behavior.
 
 The project includes data preprocessing, exploratory data analysis, model training, model evaluation, and a Streamlit web application for prediction.
 
-## 🛠️ Technologies
+##  Technologies
 
 - Python
 - Pandas
@@ -18,7 +18,7 @@ The project includes data preprocessing, exploratory data analysis, model traini
 - Joblib
 - Streamlit
 
-## 🤖 Machine Learning Models
+##  Machine Learning Models
 
 The following classification models were implemented and compared:
 
@@ -26,7 +26,7 @@ The following classification models were implemented and compared:
 - Decision Tree
 - Random Forest
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 ```text
 Data Collection
@@ -46,7 +46,7 @@ Model Evaluation
 Select Best Model
       ↓
 Streamlit Prediction Application
-## 📊 Model Evaluation
+##  Model Evaluation
 
 The models are evaluated using:
 
@@ -55,6 +55,6 @@ The models are evaluated using:
 - Recall
 - F1-score
 
-## 🌐 Streamlit Application
+##  Streamlit Application
 
 A Streamlit web application was developed to allow users to enter customer information and receive a prediction of whether the customer is likely to purchase a motorcycle.
